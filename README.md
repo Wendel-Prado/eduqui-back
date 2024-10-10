@@ -1,49 +1,59 @@
 # EDUQUI
 
-Access the official website at: [Eduqui](https://nuxt.com/docs/getting-started/introduction)
-
-## Description
-
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Access the official website at: [Eduqui](https://eduqui.com.br/)
 
 ## Project setup
 
+Make sure to install the dependencies:
+
 ```bash
-$ yarn install
+# npm
+npm install
+
+# pnpm
+pnpm install
+
+# yarn
+yarn install
 ```
 
 ## Compile and run the project
 
 ```bash
 # development
-$ yarn run start
+$ npm run start
 
 # watch mode
-$ yarn run start:dev
+$ npm run start:dev
 
 # production mode
-$ yarn run start:prod
+$ npm run start:prod
 ```
 
 ## Run tests
 
 ```bash
 # unit tests
-$ yarn run test
+$ npm run test
 
 # e2e tests
-$ yarn run test:e2e
+$ npm run test:e2e
 
 # test coverage
-$ yarn run test:cov
+$ npm run test:cov
 ```
 
 ## Tools Used
 
-Nuxt 3
+NestJS
+
+Bcrypt
+
 Axios
-Tailwind
-Moment
+
+JWT
+
+Redis
 
 ## Fun Facts
 
